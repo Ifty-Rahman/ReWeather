@@ -18,9 +18,8 @@ A small weather dashboard built with React, TypeScript and Shadcn. ReWeather fet
 - Data fetching / caching: @tanstack/react-query
 - Map rendering: Leaflet + @maptiler/leaflet-maptilersdk
 - Weather & geocode APIs: OpenWeather (OneCall, Geocoding, Air Pollution)
-- Validation: Zod (schemas)
-- Styling: CSS (project-local)
-- Tooling: npm / pnpm / yarn (any Node package manager)
+- Validation: Zod
+- Styling: TailwindCSS
 
 ## Quickstart
 
